@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Acjo que foi viu kkkkk 👷 
+         Testando ao vivo em rsrs 👷 
         </a>
       </header>
     </div>
